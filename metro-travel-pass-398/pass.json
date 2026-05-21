@@ -4,42 +4,44 @@
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "C04B64C6099A6903",
   "organizationName": "Metro Travel Pass 398",
-  "description": "Apple Wallet pass project",
+  "description": "花咲く＊ねねねねねねねね超開花！",
   "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(124, 58, 237)",
-  "labelColor": "rgb(233, 213, 255)",
+  "backgroundColor": "rgb(255, 165, 0)",
+  "labelColor": "rgb(255, 140, 0)",
   "eventTicket": {
     "headerFields": [
       {
         "key": "h1",
         "label": "DOORS",
-        "value": "7:30 PM"
+        "value": "5:30 PM"
       }
     ],
     "primaryFields": [
       {
         "key": "p1",
         "label": "EVENT",
-        "value": "Phoenix Tour"
+        "value": "花咲く＊ねねねねねねねね超開花！",
+        "dateStyle": "PKDateStyleNone",
+        "timeStyle": "PKDateStyleNone"
       }
     ],
     "secondaryFields": [
       {
         "key": "s1",
         "label": "VENUE",
-        "value": "The Lighthouse"
+        "value": "東京ガーデンシアター"
       },
       {
         "key": "s2",
         "label": "CITY",
-        "value": "Brooklyn"
+        "value": "東京ガーデンシアター"
       }
     ],
     "auxiliaryFields": [
       {
         "key": "a1",
         "label": "SECTION",
-        "value": "GA"
+        "value": "—"
       },
       {
         "key": "a2",
@@ -56,12 +58,12 @@
       {
         "key": "b1",
         "label": "Entry",
-        "value": "Show this pass at the door. Valid ID required for 21+ entry.",
+        "value": "桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」 概要【公演名】桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」主催 ： カバー株式会社【出演者】桃鈴ねね【開催日時】2026年7月29日（水） 開場 17:30 / 配信開始 18:00 / 開演 18:30【会場】東京ガーデンシアター（〒135-0063 東京都江東区有明2-1-6）【アクセス】最寄駅・ 有明駅　2B出口から徒歩4分・ 有明テニスの森駅　2A出口から徒歩5分・ 国際展示場駅　A出口から徒歩7分※会場建物近くに無断で駐車・駐輪することはご遠慮ください。※詳しくはアクセスページをご覧ください。",
         "dataDetectorTypes": []
       }
     ]
   },
-  "logoText": "Metro Travel Pass 398",
+  "logoText": "桃鈴ねね 1st Live",
   "semantics": {
     "eventType": "PKEventTypeLivePerformance",
     "eventName": "Phoenix Tour",
@@ -85,9 +87,9 @@
   "barcodes": [
     {
       "format": "PKBarcodeFormatQR",
-      "message": "NO-PHX-2026-04-12-GA-1827",
+      "message": "https://nenenenenenenene.hololivepro.com/",
       "messageEncoding": "iso-8859-1",
-      "altText": "1827"
+      "altText": "0302"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",
