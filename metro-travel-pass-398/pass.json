@@ -34,7 +34,7 @@
       {
         "key": "s2",
         "label": "CITY",
-        "value": "東京ガーデンシアター"
+        "value": "東京都江東区有明"
       }
     ],
     "auxiliaryFields": [
@@ -57,8 +57,8 @@
     "backFields": [
       {
         "key": "b1",
-        "label": "Entry",
-        "value": "桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」 概要【公演名】桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」主催 ： カバー株式会社【出演者】桃鈴ねね【開催日時】2026年7月29日（水） 開場 17:30 / 配信開始 18:00 / 開演 18:30【会場】東京ガーデンシアター（〒135-0063 東京都江東区有明2-1-6）【アクセス】最寄駅・ 有明駅　2B出口から徒歩4分・ 有明テニスの森駅　2A出口から徒歩5分・ 国際展示場駅　A出口から徒歩7分※会場建物近くに無断で駐車・駐輪することはご遠慮ください。※詳しくはアクセスページをご覧ください。",
+        "label": "概要",
+        "value": "【公演名】\n桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」\n主催：カバー株式会社\n\n【出演者】\n桃鈴ねね\n\n【開催日時】\n2026年7月29日（水）\n開場 17:30 / 配信開始 18:00 / 開演 18:30\n\n【会場】\n東京ガーデンシアター\n〒135-0063 東京都江東区有明2-1-6\n\n【アクセス】\n最寄駅\n・有明駅 2B出口から徒歩4分\n・有明テニスの森駅 2A出口から徒歩5分\n・国際展示場駅 A出口から徒歩7分\n\n※会場建物近くに無断で駐車・駐輪することはご遠慮ください。\n※詳しくはアクセスページをご覧ください。",
         "dataDetectorTypes": []
       }
     ]
@@ -66,21 +66,20 @@
   "logoText": "桃鈴ねね 1st Live",
   "semantics": {
     "eventType": "PKEventTypeLivePerformance",
-    "eventName": "Phoenix Tour",
-    "eventStartDate": "2026-04-12T20:00:00-04:00",
-    "venueName": "The Lighthouse",
-    "venueRegionName": "Brooklyn",
-    "venueRoom": "Main Hall",
+    "eventName": "桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」",
+    "eventStartDate": "2026-07-29T18:30:00+09:00",
+    "venueName": "東京ガーデンシアター",
+    "venueRegionName": "東京都江東区有明",
     "performerNames": [
-      "Noctra"
+      "桃鈴ねね"
     ],
-    "admissionLevel": "General admission",
-    "attendeeName": "Holder 9885",
+    "admissionLevel": "—",
+    "attendeeName": "—",
     "seats": [
       {
-        "seatSection": "GA",
-        "seatRow": "-",
-        "seatNumber": "-"
+        "seatSection": "—",
+        "seatRow": "—",
+        "seatNumber": "—"
       }
     ]
   },
